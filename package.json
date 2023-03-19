@@ -1,0 +1,14 @@
+{
+  "name": "luogu-api",
+  "version": "1.0.0",
+  "description": "洛谷页面 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "luogu"
+  ],
+  "author": "ztrztr",
+  "license": "ISC"
+}

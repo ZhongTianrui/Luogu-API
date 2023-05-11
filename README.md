@@ -8,5 +8,8 @@
 ## 前提条件
 安装 nodejs
 
+## 示例
+`https://api.ztrztr.top/api/luogu/page`
+
 ## 其他
 以后会把 Luogu-User-API 合并到这个仓库
